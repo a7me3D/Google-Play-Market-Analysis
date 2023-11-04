@@ -13,5 +13,5 @@ Feel free to explore the insights and recommendations provided in this notebook.
 - [Link to Datacamp Program](https://www.datacamp.com/tracks/data-scientist-with-python)
 - [Link to My Datacamp Portfolio](https://www.datacamp.com/portfolio/jbeliahmed)
 
-<b>[View Jupyter Notebook]([notebook.ipynb](https://nbviewer.org/github/a7me3D/Google-Play-Market-Analysis/blob/main/notebook.ipynb)https://nbviewer.org/github/a7me3D/Google-Play-Market-Analysis/blob/main/notebook.ipynb)</b>
+<b>[View Jupyter Notebook](https://nbviewer.org/github/a7me3D/Google-Play-Market-Analysis/blob/main/notebook.ipynb)</b>
 ---
